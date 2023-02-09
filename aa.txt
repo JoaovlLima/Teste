@@ -1,0 +1,12 @@
+1. Obter Preço Gasolina
+2. Obter Km/L do carro
+3. Obter distância a percorrer
+4. Dividir distância pelo Km/L
+5. Multiplicar Preço pelo resultado da divisão
+
+
+PreçoGasolina = ObterPeloUsuario()
+Km/L          = ObterPeloUsuario()
+Distância     = ObterPeloUsuario()
+LitrosGastos  = Distância/Km.L
+ValorGasto    = LitrosGastos*PreçoGasolina
